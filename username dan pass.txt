@@ -1,0 +1,6 @@
+berikut saya lampirkan user untuk applikasi ini
+USER    Pass            jabatan
+admin	admin	        ADMIN
+teguh	26111985	PENJUALAN
+
+untuk database nya menggunakan SQL server dengan nama file data base nya heroskid yang ada di folder database
